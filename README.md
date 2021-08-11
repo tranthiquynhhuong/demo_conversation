@@ -1,0 +1,9 @@
+# demo_conversation
+This is simple demo chat application with Flutter
+
+- Pages: Splash screen, Login screen, List conversation screen, Chat screen,...
+- Models: chat message, me, room chat, user info,...
+
+Simple chat demo app with just sending strings/text messages, focusing on interface logic. With user/friend list created. You can create a conversation between 2 people. Messages sent and received are both hard-coded with delay and animation for a real feel. The load more mechanism is optimized when old messages are too long, receive notifications when there are new messages, update the chat list when there are new messages,...
+
+Practice using Provider Changer - Simple application state management, cleaner, and more convenient source code structure.
