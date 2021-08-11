@@ -8,7 +8,7 @@ Simple chat demo app with just sending strings/text messages, focusing on interf
 
 Practice using Provider Changer - Simple application state management, cleaner, and more convenient source code structure.
 
-`Give me 1 STAR if you feel favorite it >.< Thank you bro!`
+`Give me 1` 🌟 `if you feel favorite it >.< Thank you bro!`
 
 ## Pages
 **Login screen**
